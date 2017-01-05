@@ -35,31 +35,31 @@
           </tr>
           <tr>
             <td>3</td>
-            <td><a href="#">Playing with CSS Variables and JS</a></td>
+            <td><a href="./video4/">Playing with CSS Variables and JS</a></td>
           </tr>
           <tr>
             <td>4</td>
-            <td><a href="#">Array Cardio Day 1</a></td>
+            <td><a href="./video5/">Array Cardio Day 1</a></td>
           </tr>
           <tr>
             <td>5</td>
-            <td><a href="#">Flex Panels Image Gallery</a></td>
+            <td><a href="./video6/">Flex Panels Image Gallery</a></td>
           </tr>
           <tr>
             <td>6</td>
-            <td><a href="#">Ajax Type Ahead</a></td>
+            <td><a href="./video7/">Ajax Type Ahead</a></td>
           </tr>
           <tr>
             <td>7</td>
-            <td><a href="#">Array Cardio Day 2</a></td>
+            <td><a href="./video8/">Array Cardio Day 2</a></td>
           </tr>
           <tr>
             <td>8</td>
-            <td><a href="#">Fun with HTML5 Canvas</a></td>
+            <td><a href="./video9/">Fun with HTML5 Canvas</a></td>
           </tr>
           <tr>
             <td>9</td>
-            <td><a href="#">4 Must Know Dev Tools Tricks</a></td>
+            <td><a href="./video10/">4 Must Know Dev Tools Tricks</a></td>
           </tr>
         </table>
       </div>
