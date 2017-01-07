@@ -76,7 +76,7 @@
           </tr>
           <tr>
             <td>10</td>
-            <td><a href="./video9/">Hold Shift to Check Multiple Checkboxes</a></td>
+            <td><a href="./video10/">Hold Shift to Check Multiple Checkboxes</a></td>
             <td></td>
           </tr>
           </tbody>
