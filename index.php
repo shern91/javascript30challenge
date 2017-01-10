@@ -1,3 +1,19 @@
+<?php
+    $videos = array(
+      1 => 'JavaScript Drum Kit',
+      2 => 'CSS + JS Clock',
+      3 => 'Playing with CSS Variables and JS',
+      4 => 'Array Cardio Day',
+      5 => 'Flex Panels Image Gallery',
+      6 => 'Ajax Type Ahead',
+      7 => 'Array Cardio Day 2',
+      8 => 'Fun with HTML5 Canvas',
+      9 => '4 Must Know Dev Tools Tricks',
+      10 => 'Hold Shift to Check Multiple Checkboxes',
+      11 => 'Custom HTML5 Video Player',
+      12 => 'Key Sequence Detection (KONAMI CODE)'
+    );
+?>
 <!DOCTYPE html>
 <html>
   <head>
@@ -31,56 +47,13 @@
           </tr>
           </thead>
           <tbody>
+          <?php  foreach ($videos as $key => $video) : ?>
           <tr>
-            <td>1</td>
-            <td>JavaScript Drum Kit</td>
-            <td><a class="btn btn-primary btn-xs btn" href="./video1/" target="_blank" role="button">View</a></td>
+            <td><?= $key ?></td>
+            <td><?= $video ?></td>
+            <td><a class="btn btn-primary btn-xs btn" href="./video<?= $key ?>/" target="_blank" role="button">View</a></td>
           </tr>
-          <tr>
-            <td>2</td>
-            <td>CSS + JS Clock</td>
-            <td><a class="btn btn-primary btn-xs btn" href="./video2/" target="_blank" role="button">View</a></td>
-          </tr>
-          <tr>
-            <td>3</td>
-            <td>Playing with CSS Variables and JS</td>
-            <td><a class="btn btn-primary btn-xs btn" href="./video3/" target="_blank" role="button">View</a></td>
-          </tr>
-          <tr>
-            <td>4</td>
-            <td>Array Cardio Day 1</td>
-            <td><a class="btn btn-primary btn-xs btn" href="./video4/" target="_blank" role="button">View</a></td>
-          </tr>
-          <tr>
-            <td>5</td>
-            <td>Flex Panels Image Gallery</td>
-            <td><a class="btn btn-primary btn-xs btn" href="./video5/" target="_blank" role="button">View</a></td>
-          </tr>
-          <tr>
-            <td>6</td>
-            <td>Ajax Type Ahead</td>
-            <td><a class="btn btn-primary btn-xs btn" href="./video6/" target="_blank" role="button">View</a></td>
-          </tr>
-          <tr>
-            <td>7</td>
-            <td>Array Cardio Day </td>
-            <td><a class="btn btn-primary btn-xs btn" href="./video7/" target="_blank" role="button">View</a></td>
-          </tr>
-          <tr>
-            <td>8</td>
-            <td>Fun with HTML5 Canvas</td>
-            <td><a class="btn btn-primary btn-xs btn" href="./video8/" target="_blank" role="button">View</a></td>
-          </tr>
-          <tr>
-            <td>9</td>
-            <td>4 Must Know Dev Tools Tricks</td>
-            <td><a class="btn btn-primary btn-xs btn" href="./video9/" target="_blank" role="button">View</a></td>
-          </tr>
-          <tr>
-            <td>10</td>
-            <td>Hold Shift to Check Multiple Checkboxes</td>
-            <td><a class="btn btn-primary btn-xs btn" href="./video10/" target="_blank" role="button">View</a></td>
-          </tr>
+          <?php endforeach; ?>
           </tbody>
         </table>
       </div>
