@@ -11,7 +11,8 @@
       9 => '4 Must Know Dev Tools Tricks',
       10 => 'Hold Shift to Check Multiple Checkboxes',
       11 => 'Custom HTML5 Video Player',
-      12 => 'Key Sequence Detection (KONAMI CODE)'
+      12 => 'Key Sequence Detection (KONAMI CODE)',
+      13 => 'Slide In on Scroll' 
     );
 ?>
 <!DOCTYPE html>
