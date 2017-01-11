@@ -19,6 +19,7 @@
 <html>
   <head>
     <meta charset="utf-8">
+    <meta name="javascript" content="JavaScript30Challenge">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>JavaScript30Challenge Index</title>
