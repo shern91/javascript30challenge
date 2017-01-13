@@ -14,7 +14,8 @@
       12 => 'Key Sequence Detection (KONAMI CODE)',
       13 => 'Slide In on Scroll',
       14 => 'Object and Arrays - Reference VS Copy',
-      15 => 'LocalStorage and Event Delegation'
+      15 => 'LocalStorage and Event Delegation',
+      16 => 'CSS Text Shadow Mouse Move Effect'
     );
 ?>
 <!DOCTYPE html>
@@ -25,7 +26,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>JavaScript30Challenge Index</title>
     <meta name="description" content="30 Day Vanilla JS Challenge, JavaScript30 Demo"/>
-    <meta name="keywords" content="JavaScript30Challenge, JavaScript30"/>
+    <meta name="keywords" content="JavaScript30Challenge, JavaScript30 Demo"/>
     <meta name="DC.title" content="JavaScript30Challenge"/>
     <meta property="og:url"           content="https://javascript30challenge.herokuapp.com/" />
 	  <meta property="og:type"          content="website" />
