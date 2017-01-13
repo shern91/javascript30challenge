@@ -12,17 +12,23 @@
       10 => 'Hold Shift to Check Multiple Checkboxes',
       11 => 'Custom HTML5 Video Player',
       12 => 'Key Sequence Detection (KONAMI CODE)',
-      13 => 'Slide In on Scroll' 
+      13 => 'Slide In on Scroll',
+      14 => 'Object and Arrays - Reference VS Copy',
+      15 => 'LocalStorage and Event Delegation'
     );
 ?>
 <!DOCTYPE html>
 <html>
   <head>
     <meta charset="utf-8">
-    <meta name="javascript" content="JavaScript30Challenge">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>JavaScript30Challenge Index</title>
+    <meta name="description" content="30 Day Vanilla JS Challenge, Challenge your self done JavaScript30"/>
+    <meta name="keywords" content="JavaScript30Challenge, JavaScript30"/>
+    <meta name="DC.title" content="JavaScript30Challenge"/>
+    <meta property="og:url"           content="https://javascript30challenge.herokuapp.com/" />
+	  <meta property="og:type"          content="website" />
     <!-- Latest compiled and minified CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
     <!-- Optional theme -->
