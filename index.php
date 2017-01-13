@@ -43,7 +43,7 @@
     <div class="container">
       <div class="jumbotron">
         <h1>JavaScript30 Demo</h1>
-        <p>I will upload once a done a tutorial. Thank for visit!</p>
+        <p>I will upload once done a new tutorial. Thank for visit!</p>
         </div>
       <div class="table">
         <table class="table table-hover">
