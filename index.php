@@ -24,7 +24,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>JavaScript30Challenge Index</title>
-    <meta name="description" content="30 Day Vanilla JS Challenge, Challenge your self done JavaScript30"/>
+    <meta name="description" content="30 Day Vanilla JS Challenge, JavaScript30 Demo"/>
     <meta name="keywords" content="JavaScript30Challenge, JavaScript30"/>
     <meta name="DC.title" content="JavaScript30Challenge"/>
     <meta property="og:url"           content="https://javascript30challenge.herokuapp.com/" />
