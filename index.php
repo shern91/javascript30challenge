@@ -19,7 +19,9 @@
       17 => 'Sorting Band Names without articles',
       18 => 'Tally String Times with Reduce',
       19 => 'Unreal Webcam Fun',
-      20 => 'Native Speech Recognition'
+      20 => 'Native Speech Recognition',
+      21 => 'Geolocation based Speedometer and Compass',
+      22 => 'Follow Along Links'
     );
 ?>
 <!DOCTYPE html>
