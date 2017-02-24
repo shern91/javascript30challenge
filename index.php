@@ -28,6 +28,7 @@
       26 => 'Follow Along Nav',
       27 => 'Click and Drag',
       28 => 'Video Speed Scrubber',
+      29 => 'Countdown Timer'
     );
 ?>
 <!DOCTYPE html>
