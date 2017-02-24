@@ -23,7 +23,7 @@ body {
   transition: transform 0.5s;
 }
 
-body.fixed-nav .site-wrap {
+.fixed-nav .site-wrap {
   transform: scale(1);
 }
 
@@ -76,7 +76,7 @@ li.logo {
   max-width:0;
   overflow: hidden;
   background: white;
-  transition: all .5s;
+  transition: all 2s;
   font-weight: 600;
   font-size: 30px;
 }
