@@ -24,7 +24,10 @@
       22 => 'Follow Along Links',
       23 => 'Speech Synthesis',
       24 => 'Sticky Nav',
-      25 => "Understanding JavaScript's Capture"
+      25 => "Understanding JavaScript's Capture",
+      26 => 'Follow Along Nav',
+      27 => 'Click and Drag',
+      28 => 'Video Speed Scrubber',
     );
 ?>
 <!DOCTYPE html>
