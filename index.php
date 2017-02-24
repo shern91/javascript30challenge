@@ -23,7 +23,8 @@
       21 => 'Geolocation based Speedometer and Compass',
       22 => 'Follow Along Links',
       23 => 'Speech Synthesis',
-      24 => 'Sticky Nav'
+      24 => 'Sticky Nav',
+      25 => "Understanding JavaScript's Capture"
     );
 ?>
 <!DOCTYPE html>
